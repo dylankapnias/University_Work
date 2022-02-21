@@ -1,0 +1,87 @@
+extern malloc
+    
+    section .data
+    struc Trie
+.children    resq    26                                         ; Size for 26 pointers.
+.isWord      resb    26                                         ; Size for 26 char.
+align 8                                                         ; Aligned to 8 for pointer padding.
+    endstruc
+
+triePtr     equ 0                                               ; Local variable indexes.
+
+    section .bss
+    
+    section .text
+global trieAlloc
+global trieInit
+
+trieAlloc:
+    push rbp                                                    ;
+    mov rbp, rsp                                                ;
+    push rbx                                                    ;
+    push r12                                                    ;  Creating stack frame, and storing preserved registers.
+    push r13                                                    ;
+    push r14                                                    ;
+    push r15                                                    ;
+
+    mov rdi, Trie_size                                          ; Preparing to allocate mem of size Trie_size.
+    call malloc                                                 ; Allocating block of mem for the struct.
+    mov r12, rax                                                ;
+
+trieAllocFin:
+    jmp _end                                                    ;   Goto end as pointer is already in rax.
+
+trieInit:
+    push rbp                                                    ;
+    mov rbp, rsp                                                ;
+    push rbx                                                    ;
+    push r12                                                    ;  Creating stack frame, and storing preserved registers.
+    push r13                                                    ;
+    push r14                                                    ;
+    push r15                                                    ;
+
+    sub rsp, 16                                                 ; Reserving space for local variables
+
+    mov [rsp + triePtr], rdi                                    ; Saving Trie pointer to stack.
+
+    xor rcx, rcx                                                ; rcx = 0. (Will be used as counter)
+    add rdi, Trie.children                                      ; rdi will equal the offset needed to get to the children array.
+    mov r13, 0                                                  ; r13 = 0.
+
+childLoop:
+    cmp rcx, 26                                                 ; Compare counter to size of isWord array.
+    je wordLoopInit                                             ;   If equal, goto wordLoopInit.
+
+    mov [rdi + 8*rcx], r13                                      ; Insert '0' char into the index in the isWord array.
+
+    inc rcx                                                     ; Increase counter
+    jmp childLoop                                               ;   Goto childLoop
+
+wordLoopInit:
+    xor rcx, rcx                                                ; rcx = 0. (Will be usedc as counter)
+    mov rdi, [rsp + triePtr]                                    ; rdi now holds the pointer to the trie.
+    add rdi, Trie.isWord                                        ; rdi will equal the offset needed to get to the isWord array.
+    mov r13, 0                                                  ; r13 = 0.
+
+wordLoop:
+    cmp rcx, 26                                                 ; Compare counter to size of isWord array.
+    je trieInitFin                                              ;   If equal, goto trieInitFin.
+
+    mov [rdi + rcx], r13                                        ; Insert '0' char into the index in the isWord array.
+
+    inc rcx                                                     ; Increase counter
+    jmp wordLoop                                                ;   Goto wordLoop
+
+trieInitFin:
+    add rsp, 16                                                 ; Removing reserved space.
+    jmp _end                                                    ;   Goto _end.
+
+_end:
+    pop r15                                                     ;
+    pop r14                                                     ;
+    pop r13                                                     ; Restoring the preserved registers.
+    pop r12                                                     ;
+    pop rbx                                                     ;
+
+    leave                                                       ; Destroying stack frame.
+    ret                                                         ; Returning.

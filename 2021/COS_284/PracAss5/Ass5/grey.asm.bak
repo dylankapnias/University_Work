@@ -1,0 +1,141 @@
+extern open, close, read, write, malloc
+    
+    section .data
+    
+    section .bss
+header  resb 16
+RGB     resb 4
+RGBwr   resb 4
+
+    section .text
+global greyscale
+
+greyscale:
+    push rbp                                                    ;
+    mov rbp, rsp                                                ;
+    push rbx                                                    ;
+    push r12                                                    ;  Creating stack frame, and storing preserved registers.
+    push r13                                                    ;
+    push r14                                                    ;
+    push r15                                                    ;
+
+    sub rsp, 32                                                 ; Reserving space for local variables
+
+inputFile   equ 0                                               ;   
+outputFile  equ 8                                               ; Local variable indexes.
+inFileDes   equ 16                                              ;
+outFileDes  equ 24                                              ;
+
+init:
+    mov [rsp + inputFile], rdi                                  ; Saving the path to the input file on the stack.
+    mov [rsp + outputFile], rsi                                 ; Saving the path to the output file on the stack.
+
+createOutFile:
+    mov rdi, [rsp + outputFile]                                 ; rdi now holds the path to the input file.
+    mov rsi, 577                                                ; Create, write and trunc (Create = 64, Write = 1, Truc = 512: Bitwise-or'ed = 1025)..
+    mov rdx, 700                                                ; Permissions.
+    call open                                                   ; Call open(filename, writeonly)
+
+    mov rdi, rax                                                ; rdi now holds the descriptor to the output file.
+    call close                                                  ; Call close(filedescriptor)
+
+openFiles:
+    mov rdi, [rsp + inputFile]                                  ; rdi now holds the path to the input file.
+    mov rsi, 0                                                  ; Read only.
+    call open                                                   ; Call open(filename, readonly)
+    mov [rsp + inFileDes], rax                                  ; Saving the file desctiptor on the stack.
+
+    mov rdi, [rsp + outputFile]                                 ; rdi now holds the path to the input file.
+    mov rsi, 1025                                               ; Write and append (Write = 1, Append = 1024: Bitwise-or'ed = 1025).
+    call open                                                   ; Call open(filename, writeonly)
+    mov [rsp + outFileDes], rax                                 ; Saving the file desctiptor on the stack.
+
+RandWHeader:
+    mov rdi, [rsp + inFileDes]                                  ; rdi now holds the file descriptor for the input file.
+    mov rsi, header                                             ; rsi now holds the buffer to read into.
+    mov rdx, 15                                                 ; rdx now holds the amount of bytes to read.
+    call read                                                   ; Call read(filedescriptor, buffer, size)
+
+    mov rdi, [rsp + outFileDes]                                 ; rdi now holds the file descriptor for the output file.
+    mov rsi, header                                             ; rsi now holds the buffer to write from.
+    mov rdx, 15                                                 ; rdx now holds the amount of bytes to write.
+    call write                                                  ; Call write(filedescriptor, buffer, size)
+    mov rdi, rax                                                ; ???
+
+RandWRGBinit:
+    xor r13, r13
+
+RandWRGBStart:
+    mov rdi, [rsp + inFileDes]                                  ; rdi now holds the file descriptor for the input file.
+    mov rsi, RGB                                                ; rsi now holds the buffer to read into.
+    mov rdx, 3                                                  ; rdx now holds the amount of bytes to read.
+    call read                                                   ; Call read(filedescriptor, buffer, size)
+
+    cmp rax, 0                                                  ; Compare rax (return of read) to 0
+    jle closeFiles                                              ;   If less than or equal, goto closefiles
+
+    xor rdx, rdx                                                ; rdx = 0. Preparing for divide
+    mov rsi, 3                                                  ; Divide by 3 to find average
+    mov r11, RGB                                                ; The RGB values
+
+    cmp r13, 397
+    je here
+
+lable:
+    xor r12, r12
+    xor rax, rax
+    movsx rax, byte[r11]                                        ; Sign extending the first byte.
+    movsx r12, byte[r11 + 1]                                    ; Sign extending the second byte.
+    add rax, r12                                                ; Adding the first and the second value.
+    xor r12, r12                                                ;
+    movsx r12, byte[r11 + 2]                                    ; Sign extending the third byte.
+    add rax, r12                                                ; Adding the first, second and third.
+
+    cmp rax, 0                                                  ; Comparing the result with 0.
+    jl negNum                                                   ;   If less than 0, goto negNum.
+
+    idiv rsi                                                    ; Divide by 3.
+
+afterDiv:
+    mov rsi, 0                                                  ; Null char.
+    mov [RGBwr], rax                                            ; 
+    mov [RGBwr + 1], rax                                        ; Building the average string.
+    mov [RGBwr + 2], rax                                        ;
+    mov [RGBwr + 3], rsi                                        ; Adding null char.
+
+    mov rdi, [rsp + outFileDes]                                 ; rdi now holds the file descriptor for the output file.
+    mov rsi, RGBwr                                              ; rsi now holds the buffer to write from.
+    mov rdx, 3                                                  ; rdx now holds the amount of bytes to write.
+    call write                                                  ; Call write(filedescriptor, buffer, size)
+    
+    inc r13
+    jmp RandWRGBStart                                           ;   Goto RandWRGBStart
+
+negNum:
+    neg rax                                                     ;
+    idiv rsi                                                    ;
+    neg rax                                                     ;
+
+    jmp afterDiv                                                ;
+
+here:
+    jmp lable
+
+closeFiles:
+    mov rdi, [rsp + inFileDes]                                  ; rdi now holds the descriptor to the input file.
+    call close                                                  ; Call close(filedescriptor)
+    
+    mov rdi, [rsp + outFileDes]                                 ; rdi now holds the descriptor to the output file.
+    call close                                                  ; Call close(filedescriptor)
+
+_end:
+    add rsp, 32                                                 ; Removing reserved space.
+
+    pop r15                                                     ;
+    pop r14                                                     ;
+    pop r13                                                     ; Restoring the preserved registers.
+    pop r12                                                     ;
+    pop rbx                                                     ;
+
+    leave                                                       ; Destroying stack frame.
+    ret                                                         ; Returning.

@@ -1,0 +1,23 @@
+     1                                 %line 1+1 hello.asm
+     2                                 [segment .data]
+     3 00000000 54686520717569636B-    hello dq "The quick brown fox jumps over the lazy dog.",0x0a
+     4 00000000 2062726F776E20666F-
+     5 00000000 78206A756D7073206F-
+     6 00000000 76657220746865206C-
+     7 00000000 617A7920646F672E00-
+     8 00000000 0000000A0000000000-
+     9 00000000 0000               
+    10                                 
+    11                                 
+    12                                 [segment .text]
+    13                                 [global _start]
+    14                                 _start:
+    15 00000000 48C7C232000000          mov rdx, 50
+    16 00000007 48BE[00000000000000-     mov rsi, qword hello
+    17 00000007 00]                
+    18 00000011 48C7C001000000          mov rax, 0x1
+    19 00000018 48C7C701000000          mov rdi, 0x1
+    20 0000001F 0F05                    syscall
+    21 00000021 48C7C03C000000          mov rax,60
+    22 00000028 4831FF                  xor rdi, rdi
+    23 0000002B 0F05                    syscall

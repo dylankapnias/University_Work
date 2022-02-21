@@ -1,0 +1,352 @@
+
+Testing task 1
+
+Please input the shift degree: Please input the string to encode: Encoded text: hello world
+
+Please input the shift degree: Please input the string to encode: Encoded text: ifmmp xpsme
+Please input the shift degree: Please input the string to encode: Encoded text: jgnnq yqtnf
+Please input the shift degree: Please input the string to encode: Encoded text: khoor zruog
+Please input the shift degree: Please input the string to encode: Encoded text: lipps asvph
+Please input the shift degree: Please input the string to encode: Encoded text: mjqqt btwqi
+Please input the shift degree: Please input the string to encode: Encoded text: nkrru cuxrj
+Please input the shift degree: Please input the string to encode: Encoded text: olssv dvysk
+Please input the shift degree: Please input the string to encode: Encoded text: pmttw ewztl
+Please input the shift degree: Please input the string to encode: Encoded text: qnuux fxaum
+Please input the shift degree: Please input the string to encode: Encoded text: rovvy gybvn
+Please input the shift degree: Please input the string to encode: Encoded text: spwwz hzcwo
+Please input the shift degree: Please input the string to encode: Encoded text: tqxxa iadxp
+Please input the shift degree: Please input the string to encode: Encoded text: uryyb jbeyq
+Please input the shift degree: Please input the string to encode: Encoded text: vszzc kcfzr
+Please input the shift degree: Please input the string to encode: Encoded text: wtaad ldgas
+Please input the shift degree: Please input the string to encode: Encoded text: xubbe mehbt
+Please input the shift degree: Please input the string to encode: Encoded text: yvccf nficu
+Please input the shift degree: Please input the string to encode: Encoded text: zwddg ogjdv
+Please input the shift degree: Please input the string to encode: Encoded text: axeeh phkew
+Please input the shift degree: Please input the string to encode: Encoded text: byffi qilfx
+Please input the shift degree: Please input the string to encode: Encoded text: czggj rjmgy
+Please input the shift degree: Please input the string to encode: Encoded text: dahhk sknhz 
+Please input the shift degree: Please input the string to encode: Encoded text: ebiil tloia!
+Please input the shift degree: Please input the string to encode: Encoded text: fcjjm umpjb"
+Please input the shift degree: Please input the string to encode: Encoded text: gdkkn vnqkc#
+Please input the shift degree: Please input the string to encode: Encoded text: the quick brown fox jumps over the lazy dog
+
+Please input the shift degree: Please input the string to encode: Encoded text: uif rvjdl cspxo gpy kvnqt pwfs uif mbaz eph
+Please input the shift degree: Please input the string to encode: Encoded text: vjg swkem dtqyp hqz lworu qxgt vjg ncba fqi
+Please input the shift degree: Please input the string to encode: Encoded text: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
+Please input the shift degree: Please input the string to encode: Encoded text: xli uymgo fvsar jsb nyqtw sziv xli pedc hsk
+Please input the shift degree: Please input the string to encode: Encoded text: ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl
+Please input the shift degree: Please input the string to encode: Encoded text: znk waoiq hxuct lud pasvy ubkx znk rgfe jum
+Please input the shift degree: Please input the string to encode: Encoded text: aol xbpjr iyvdu mve qbtwz vcly aol shgf kvn
+Please input the shift degree: Please input the string to encode: Encoded text: bpm ycqks jzwev nwf rcuxa wdmz bpm tihg lwo
+Please input the shift degree: Please input the string to encode: Encoded text: cqn zdrlt kaxfw oxg sdvyb xena cqn ujih mxp
+Please input the shift degree: Please input the string to encode: Encoded text: dro aesmu lbygx pyh tewzc yfob dro vkji nyq
+Please input the shift degree: Please input the string to encode: Encoded text: esp bftnv mczhy qzi ufxad zgpc esp wlkj ozr
+Please input the shift degree: Please input the string to encode: Encoded text: ftq cguow ndaiz raj vgybe ahqd ftq xmlk pas
+Please input the shift degree: Please input the string to encode: Encoded text: gur dhvpx oebja sbk whzcf bire gur ynml qbt
+Please input the shift degree: Please input the string to encode: Encoded text: hvs eiwqy pfckb tcl xiadg cjsf hvs zonm rcu
+Please input the shift degree: Please input the string to encode: Encoded text: iwt fjxrz qgdlc udm yjbeh dktg iwt apon sdv
+Please input the shift degree: Please input the string to encode: Encoded text: jxu gkysa rhemd ven zkcfi eluh jxu bqpo tew
+Please input the shift degree: Please input the string to encode: Encoded text: kyv hlztb sifne wfo aldgj fmvi kyv crqp ufx
+Please input the shift degree: Please input the string to encode: Encoded text: lzw imauc tjgof xgp bmehk gnwj lzw dsrq vgy
+Please input the shift degree: Please input the string to encode: Encoded text: max jnbvd ukhpg yhq cnfil hoxk max etsr whz
+Please input the shift degree: Please input the string to encode: Encoded text: nby kocwe vliqh zir dogjm ipyl nby futs xia
+Please input the shift degree: Please input the string to encode: Encoded text: ocz lpdxf wmjri ajs ephkn jqzm ocz gvut yjb
+Please input the shift degree: Please input the string to encode: Encoded text: pda mqeyg xnksj bkt fqilo kran pda hwvu zkc 
+Please input the shift degree: Please input the string to encode: Encoded text: qeb nrfzh yoltk clu grjmp lsbo qeb ixwv ald!
+Please input the shift degree: Please input the string to encode: Encoded text: rfc osgai zpmul dmv hsknq mtcp rfc jyxw bme"
+Please input the shift degree: Please input the string to encode: Encoded text: sgd pthbj aqnvm enw itlor nudq sgd kzyx cnf#
+Please input the shift degree: Please input the string to encode: Encoded text: 
+
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text:  
+Please input the shift degree: Please input the string to encode: Encoded text: !
+Please input the shift degree: Please input the string to encode: Encoded text: "
+Please input the shift degree: Please input the string to encode: Encoded text: #
+Please input the shift degree: Please input the string to encode: Encoded text: this is just a thing that i am testing
+
+Please input the shift degree: Please input the string to encode: Encoded text: uijt jt kvtu b uijoh uibu j bn uftujoh
+Please input the shift degree: Please input the string to encode: Encoded text: vjku ku lwuv c vjkpi vjcv k co vguvkpi
+Please input the shift degree: Please input the string to encode: Encoded text: wklv lv mxvw d wklqj wkdw l dp whvwlqj
+Please input the shift degree: Please input the string to encode: Encoded text: xlmw mw nywx e xlmrk xlex m eq xiwxmrk
+Please input the shift degree: Please input the string to encode: Encoded text: ymnx nx ozxy f ymnsl ymfy n fr yjxynsl
+Please input the shift degree: Please input the string to encode: Encoded text: znoy oy payz g znotm zngz o gs zkyzotm
+Please input the shift degree: Please input the string to encode: Encoded text: aopz pz qbza h aopun aoha p ht alzapun
+Please input the shift degree: Please input the string to encode: Encoded text: bpqa qa rcab i bpqvo bpib q iu bmabqvo
+Please input the shift degree: Please input the string to encode: Encoded text: cqrb rb sdbc j cqrwp cqjc r jv cnbcrwp
+Please input the shift degree: Please input the string to encode: Encoded text: drsc sc tecd k drsxq drkd s kw docdsxq
+Please input the shift degree: Please input the string to encode: Encoded text: estd td ufde l estyr esle t lx epdetyr
+Please input the shift degree: Please input the string to encode: Encoded text: ftue ue vgef m ftuzs ftmf u my fqefuzs
+Please input the shift degree: Please input the string to encode: Encoded text: guvf vf whfg n guvat gung v nz grfgvat
+Please input the shift degree: Please input the string to encode: Encoded text: hvwg wg xigh o hvwbu hvoh w oa hsghwbu
+Please input the shift degree: Please input the string to encode: Encoded text: iwxh xh yjhi p iwxcv iwpi x pb ithixcv
+Please input the shift degree: Please input the string to encode: Encoded text: jxyi yi zkij q jxydw jxqj y qc juijydw
+Please input the shift degree: Please input the string to encode: Encoded text: kyzj zj aljk r kyzex kyrk z rd kvjkzex
+Please input the shift degree: Please input the string to encode: Encoded text: lzak ak bmkl s lzafy lzsl a se lwklafy
+Please input the shift degree: Please input the string to encode: Encoded text: mabl bl cnlm t mabgz matm b tf mxlmbgz
+Please input the shift degree: Please input the string to encode: Encoded text: nbcm cm domn u nbcha nbun c ug nymncha
+Please input the shift degree: Please input the string to encode: Encoded text: ocdn dn epno v ocdib ocvo d vh oznodib
+Please input the shift degree: Please input the string to encode: Encoded text: pdeo eo fqop w pdejc pdwp e wi paopejc 
+Please input the shift degree: Please input the string to encode: Encoded text: qefp fp grpq x qefkd qexq f xj qbpqfkd!
+Please input the shift degree: Please input the string to encode: Encoded text: rfgq gq hsqr y rfgle rfyr g yk rcqrgle"
+Please input the shift degree: Please input the string to encode: Encoded text: sghr hr itrs z sghmf sgzs h zl sdrshmf#
+
+Testing task 2 does not matter strings dont make sense
+
+Please input the shift degree: Please input the string to decode: Decoded text: hello world$
+Please input the shift degree: Please input the string to decode: Decoded text: gdkkn vnqkc#
+Please input the shift degree: Please input the string to decode: Decoded text: fcjjm umpjb"
+Please input the shift degree: Please input the string to decode: Decoded text: ebiil tloia!
+Please input the shift degree: Please input the string to decode: Decoded text: dahhk sknhz 
+Please input the shift degree: Please input the string to decode: Decoded text: czggj rjmgy
+Please input the shift degree: Please input the string to decode: Decoded text: byffi qilfx
+Please input the shift degree: Please input the string to decode: Decoded text: axeeh phkew
+Please input the shift degree: Please input the string to decode: Decoded text: zwddg ogjdv
+Please input the shift degree: Please input the string to decode: Decoded text: yvccf nficu
+Please input the shift degree: Please input the string to decode: Decoded text: xubbe mehbt
+Please input the shift degree: Please input the string to decode: Decoded text: wtaad ldgasÿ
+Please input the shift degree: Please input the string to decode: Decoded text: vszzc kcfzrþ
+Please input the shift degree: Please input the string to decode: Decoded text: uryyb jbeyqý
+Please input the shift degree: Please input the string to decode: Decoded text: tqxxa iadxpü
+Please input the shift degree: Please input the string to decode: Decoded text: spwwz hzcwoû
+Please input the shift degree: Please input the string to decode: Decoded text: rovvy gybvnú
+Please input the shift degree: Please input the string to decode: Decoded text: qnuux fxaumù
+Please input the shift degree: Please input the string to decode: Decoded text: pmttw ewztlø
+Please input the shift degree: Please input the string to decode: Decoded text: olssv dvysk÷
+Please input the shift degree: Please input the string to decode: Decoded text: nkrru cuxrjö
+Please input the shift degree: Please input the string to decode: Decoded text: mjqqt btwqiõ
+Please input the shift degree: Please input the string to decode: Decoded text: lipps asvphô
+Please input the shift degree: Please input the string to decode: Decoded text: khoor zruogó
+Please input the shift degree: Please input the string to decode: Decoded text: jgnnq yqtnfò
+Please input the shift degree: Please input the string to decode: Decoded text: ifmmp xpsmeñ
+Please input the shift degree: Please input the string to decode: Decoded text: the quick brown fox jumps over the lazy dog$
+Please input the shift degree: Please input the string to decode: Decoded text: sgd pthbj aqnvm enw itlor nudq sgd kzyx cnf#
+Please input the shift degree: Please input the string to decode: Decoded text: rfc osgai zpmul dmv hsknq mtcp rfc jyxw bme"
+Please input the shift degree: Please input the string to decode: Decoded text: qeb nrfzh yoltk clu grjmp lsbo qeb ixwv ald!
+Please input the shift degree: Please input the string to decode: Decoded text: pda mqeyg xnksj bkt fqilo kran pda hwvu zkc 
+Please input the shift degree: Please input the string to decode: Decoded text: ocz lpdxf wmjri ajs ephkn jqzm ocz gvut yjb
+Please input the shift degree: Please input the string to decode: Decoded text: nby kocwe vliqh zir dogjm ipyl nby futs xia
+Please input the shift degree: Please input the string to decode: Decoded text: max jnbvd ukhpg yhq cnfil hoxk max etsr whz
+Please input the shift degree: Please input the string to decode: Decoded text: lzw imauc tjgof xgp bmehk gnwj lzw dsrq vgy
+Please input the shift degree: Please input the string to decode: Decoded text: kyv hlztb sifne wfo aldgj fmvi kyv crqp ufx
+Please input the shift degree: Please input the string to decode: Decoded text: jxu gkysa rhemd ven zkcfi eluh jxu bqpo tew
+Please input the shift degree: Please input the string to decode: Decoded text: iwt fjxrz qgdlc udm yjbeh dktg iwt apon sdvÿ
+Please input the shift degree: Please input the string to decode: Decoded text: hvs eiwqy pfckb tcl xiadg cjsf hvs zonm rcuþ
+Please input the shift degree: Please input the string to decode: Decoded text: gur dhvpx oebja sbk whzcf bire gur ynml qbtý
+Please input the shift degree: Please input the string to decode: Decoded text: ftq cguow ndaiz raj vgybe ahqd ftq xmlk pasü
+Please input the shift degree: Please input the string to decode: Decoded text: esp bftnv mczhy qzi ufxad zgpc esp wlkj ozrû
+Please input the shift degree: Please input the string to decode: Decoded text: dro aesmu lbygx pyh tewzc yfob dro vkji nyqú
+Please input the shift degree: Please input the string to decode: Decoded text: cqn zdrlt kaxfw oxg sdvyb xena cqn ujih mxpù
+Please input the shift degree: Please input the string to decode: Decoded text: bpm ycqks jzwev nwf rcuxa wdmz bpm tihg lwoø
+Please input the shift degree: Please input the string to decode: Decoded text: aol xbpjr iyvdu mve qbtwz vcly aol shgf kvn÷
+Please input the shift degree: Please input the string to decode: Decoded text: znk waoiq hxuct lud pasvy ubkx znk rgfe jumö
+Please input the shift degree: Please input the string to decode: Decoded text: ymj vznhp gwtbs ktc ozrux tajw ymj qfed itlõ
+Please input the shift degree: Please input the string to decode: Decoded text: xli uymgo fvsar jsb nyqtw sziv xli pedc hskô
+Please input the shift degree: Please input the string to decode: Decoded text: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grjó
+Please input the shift degree: Please input the string to decode: Decoded text: vjg swkem dtqyp hqz lworu qxgt vjg ncba fqiò
+Please input the shift degree: Please input the string to decode: Decoded text: uif rvjdl cspxo gpy kvnqt pwfs uif mbaz ephñ
+Please input the shift degree: Please input the string to decode: Decoded text: $
+Please input the shift degree: Please input the string to decode: Decoded text: #
+Please input the shift degree: Please input the string to decode: Decoded text: "
+Please input the shift degree: Please input the string to decode: Decoded text: !
+Please input the shift degree: Please input the string to decode: Decoded text:  
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: 
+Please input the shift degree: Please input the string to decode: Decoded text: ÿ
+Please input the shift degree: Please input the string to decode: Decoded text: þ
+Please input the shift degree: Please input the string to decode: Decoded text: ý
+Please input the shift degree: Please input the string to decode: Decoded text: ü
+Please input the shift degree: Please input the string to decode: Decoded text: û
+Please input the shift degree: Please input the string to decode: Decoded text: ú
+Please input the shift degree: Please input the string to decode: Decoded text: ù
+Please input the shift degree: Please input the string to decode: Decoded text: ø
+Please input the shift degree: Please input the string to decode: Decoded text: ÷
+Please input the shift degree: Please input the string to decode: Decoded text: ö
+Please input the shift degree: Please input the string to decode: Decoded text: õ
+Please input the shift degree: Please input the string to decode: Decoded text: ô
+Please input the shift degree: Please input the string to decode: Decoded text: ó
+Please input the shift degree: Please input the string to decode: Decoded text: ò
+Please input the shift degree: Please input the string to decode: Decoded text: ñ
+Please input the shift degree: Please input the string to decode: Decoded text: this is just a thing that i am testing$
+Please input the shift degree: Please input the string to decode: Decoded text: sghr hr itrs z sghmf sgzs h zl sdrshmf#
+Please input the shift degree: Please input the string to decode: Decoded text: rfgq gq hsqr y rfgle rfyr g yk rcqrgle"
+Please input the shift degree: Please input the string to decode: Decoded text: qefp fp grpq x qefkd qexq f xj qbpqfkd!
+Please input the shift degree: Please input the string to decode: Decoded text: pdeo eo fqop w pdejc pdwp e wi paopejc 
+Please input the shift degree: Please input the string to decode: Decoded text: ocdn dn epno v ocdib ocvo d vh oznodib
+Please input the shift degree: Please input the string to decode: Decoded text: nbcm cm domn u nbcha nbun c ug nymncha
+Please input the shift degree: Please input the string to decode: Decoded text: mabl bl cnlm t mabgz matm b tf mxlmbgz
+Please input the shift degree: Please input the string to decode: Decoded text: lzak ak bmkl s lzafy lzsl a se lwklafy
+Please input the shift degree: Please input the string to decode: Decoded text: kyzj zj aljk r kyzex kyrk z rd kvjkzex
+Please input the shift degree: Please input the string to decode: Decoded text: jxyi yi zkij q jxydw jxqj y qc juijydw
+Please input the shift degree: Please input the string to decode: Decoded text: iwxh xh yjhi p iwxcv iwpi x pb ithixcvÿ
+Please input the shift degree: Please input the string to decode: Decoded text: hvwg wg xigh o hvwbu hvoh w oa hsghwbuþ
+Please input the shift degree: Please input the string to decode: Decoded text: guvf vf whfg n guvat gung v nz grfgvatý
+Please input the shift degree: Please input the string to decode: Decoded text: ftue ue vgef m ftuzs ftmf u my fqefuzsü
+Please input the shift degree: Please input the string to decode: Decoded text: estd td ufde l estyr esle t lx epdetyrû
+Please input the shift degree: Please input the string to decode: Decoded text: drsc sc tecd k drsxq drkd s kw docdsxqú
+Please input the shift degree: Please input the string to decode: Decoded text: cqrb rb sdbc j cqrwp cqjc r jv cnbcrwpù
+Please input the shift degree: Please input the string to decode: Decoded text: bpqa qa rcab i bpqvo bpib q iu bmabqvoø
+Please input the shift degree: Please input the string to decode: Decoded text: aopz pz qbza h aopun aoha p ht alzapun÷
+Please input the shift degree: Please input the string to decode: Decoded text: znoy oy payz g znotm zngz o gs zkyzotmö
+Please input the shift degree: Please input the string to decode: Decoded text: ymnx nx ozxy f ymnsl ymfy n fr yjxynslõ
+Please input the shift degree: Please input the string to decode: Decoded text: xlmw mw nywx e xlmrk xlex m eq xiwxmrkô
+Please input the shift degree: Please input the string to decode: Decoded text: wklv lv mxvw d wklqj wkdw l dp whvwlqjó
+Please input the shift degree: Please input the string to decode: Decoded text: vjku ku lwuv c vjkpi vjcv k co vguvkpiò
+Please input the shift degree: Please input the string to decode: Decoded text: uijt jt kvtu b uijoh uibu j bn uftujohñ
+Testing task 3
+Please input the shift degree: Please input the string to encode: Encoded text: Hello World!
+
+Please input the shift degree: Please input the string to encode: Encoded text: Idmkp Vpqmc!
+Please input the shift degree: Please input the string to encode: Encoded text: Jcnjq Uqpnb!
+Please input the shift degree: Please input the string to encode: Encoded text: Kboir Trooa!
+Please input the shift degree: Please input the string to encode: Encoded text: Laphs Ssnpz!
+Please input the shift degree: Please input the string to encode: Encoded text: Mzqgt Rtmqy!
+Please input the shift degree: Please input the string to encode: Encoded text: Nyrfu Qulrx!
+Please input the shift degree: Please input the string to encode: Encoded text: Oxsev Pvksw!
+Please input the shift degree: Please input the string to encode: Encoded text: Pwtdw Owjtv!
+Please input the shift degree: Please input the string to encode: Encoded text: Qvucx Nxiuu!
+Please input the shift degree: Please input the string to encode: Encoded text: Ruvby Myhvt!
+Please input the shift degree: Please input the string to encode: Encoded text: Stwaz Lzgws!
+Please input the shift degree: Please input the string to encode: Encoded text: Tsxza Kafxr!
+Please input the shift degree: Please input the string to encode: Encoded text: Uryyb Jbeyq!
+Please input the shift degree: Please input the string to encode: Encoded text: Vqzxc Icdzp!
+Please input the shift degree: Please input the string to encode: Encoded text: Wpawd Hdcao!
+Please input the shift degree: Please input the string to encode: Encoded text: Xobve Gebbn!
+Please input the shift degree: Please input the string to encode: Encoded text: Yncuf Ffacm!
+Please input the shift degree: Please input the string to encode: Encoded text: Zmdtg Egzdl!
+Please input the shift degree: Please input the string to encode: Encoded text: Alesh Dhyek!
+Please input the shift degree: Please input the string to encode: Encoded text: Bkfri Cixfj!
+Please input the shift degree: Please input the string to encode: Encoded text: Cjgqj Bjwgi!
+Please input the shift degree: Please input the string to encode: Encoded text: Dihpk Akvhh! 
+Please input the shift degree: Please input the string to encode: Encoded text: Ehiol Zluig!!
+Please input the shift degree: Please input the string to encode: Encoded text: Fgjnm Ymtjf!"
+Please input the shift degree: Please input the string to encode: Encoded text: Gfkmn Xnske!#
+Please input the shift degree: Please input the string to encode: Encoded text: the quick brown fox jumps over the lazy dog$
+Please input the shift degree: Please input the string to encode: Encoded text: ugf pvhdj cqpvo epw ktnot nwds sid mzax enh#
+Please input the shift degree: Please input the string to encode: Encoded text: vfg owgei dpqup dqv lsonu mxct rjc nybw fmi"
+Please input the shift degree: Please input the string to encode: Encoded text: weh nxffh eortq cru mrpmv lybu qkb oxcv glj!
+Please input the shift degree: Please input the string to encode: Encoded text: xdi myegg fnssr bst nqqlw kzav pla pwdu hkk 
+Please input the shift degree: Please input the string to encode: Encoded text: ycj lzdhf gmtrs ats oprkx jazw omz qvet ijl
+Please input the shift degree: Please input the string to encode: Encoded text: zbk kacie hluqt zur posjy ibyx nny rufs jim
+Please input the shift degree: Please input the string to encode: Encoded text: aal jbbjd ikvpu yvq qntiz hcxy mox stgr khn
+Please input the shift degree: Please input the string to encode: Encoded text: bzm icakc jjwov xwp rmuha gdwz lpw tshq lgo
+Please input the shift degree: Please input the string to encode: Encoded text: cyn hdzlb kixnw wxo slvgb feva kqv urip mfp
+Please input the shift degree: Please input the string to encode: Encoded text: dxo geyma lhymx vyn tkwfc efub jru vqjo neq
+Please input the shift degree: Please input the string to encode: Encoded text: ewp ffxnz mgzly uzm ujxed dgtc ist wpkn odrÿ
+Please input the shift degree: Please input the string to encode: Encoded text: fvq egwoy nfakz tal viyde chsd hts xolm pcsþ
+Please input the shift degree: Please input the string to encode: Encoded text: gur dhvpx oebja sbk whzcf bire gur ynml qbtý
+Please input the shift degree: Please input the string to encode: Encoded text: hts ciuqw pdcib rcj xgabg ajqf fvq zmnk rauü
+Please input the shift degree: Please input the string to encode: Encoded text: ist bjtrv qcdhc qdi yfbah zkpg ewp aloj szvû
+Please input the shift degree: Please input the string to encode: Encoded text: jru akssu rbegd peh zeczi yloh dxo bkpi tywú
+Please input the shift degree: Please input the string to encode: Encoded text: kqv zlrtt saffe ofg addyj xmni cyn cjqh uxxù
+Please input the shift degree: Please input the string to encode: Encoded text: lpw ymqus tzgef ngf bcexk wnmj bzm dirg vwyø
+Please input the shift degree: Please input the string to encode: Encoded text: mox xnpvr uyhdg mhe cbfwl volk aal ehsf wvz÷
+Please input the shift degree: Please input the string to encode: Encoded text: nny woowq vxich lid dagvm upkl zbk fgte xuaö
+Please input the shift degree: Please input the string to encode: Encoded text: omz vpnxp wwjbi kjc ezhun tqjm ycj gfud ytbõ
+Please input the shift degree: Please input the string to encode: Encoded text: pla uqmyo xvkaj jkb fyito srin xdi hevc zscô
+Please input the shift degree: Please input the string to encode: Encoded text: qkb trlzn yulzk ila gxjsp rsho weh idwb ardó
+Please input the shift degree: Please input the string to encode: Encoded text: rjc sskam ztmyl hmz hwkrq qtgp vfg jcxa bqeò
+Please input the shift degree: Please input the string to encode: Encoded text: sid rtjbl asnxm gny ivlqr pufq ugf kbyz cpfñ
+Please input the shift degree: Please input the string to encode: Encoded text: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG!$
+Please input the shift degree: Please input the string to encode: Encoded text: UGF PVHDJ CQPVO EPW KTNOT NWDS SID MZAX ENH!#
+Please input the shift degree: Please input the string to encode: Encoded text: VFG OWGEI DPQUP DQV LSONU MXCT RJC NYBW FMI!"
+Please input the shift degree: Please input the string to encode: Encoded text: WEH NXFFH EORTQ CRU MRPMV LYBU QKB OXCV GLJ!!
+Please input the shift degree: Please input the string to encode: Encoded text: XDI MYEGG FNSSR BST NQQLW KZAV PLA PWDU HKK! 
+Please input the shift degree: Please input the string to encode: Encoded text: YCJ LZDHF GMTRS ATS OPRKX JAZW OMZ QVET IJL!
+Please input the shift degree: Please input the string to encode: Encoded text: ZBK KACIE HLUQT ZUR POSJY IBYX NNY RUFS JIM!
+Please input the shift degree: Please input the string to encode: Encoded text: AAL JBBJD IKVPU YVQ QNTIZ HCXY MOX STGR KHN!
+Please input the shift degree: Please input the string to encode: Encoded text: BZM ICAKC JJWOV XWP RMUHA GDWZ LPW TSHQ LGO!
+Please input the shift degree: Please input the string to encode: Encoded text: CYN HDZLB KIXNW WXO SLVGB FEVA KQV URIP MFP!
+Please input the shift degree: Please input the string to encode: Encoded text: DXO GEYMA LHYMX VYN TKWFC EFUB JRU VQJO NEQ!
+Please input the shift degree: Please input the string to encode: Encoded text: EWP FFXNZ MGZLY UZM UJXED DGTC IST WPKN ODR!ÿ
+Please input the shift degree: Please input the string to encode: Encoded text: FVQ EGWOY NFAKZ TAL VIYDE CHSD HTS XOLM PCS!þ
+Please input the shift degree: Please input the string to encode: Encoded text: GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT!ý
+Please input the shift degree: Please input the string to encode: Encoded text: HTS CIUQW PDCIB RCJ XGABG AJQF FVQ ZMNK RAU!ü
+Please input the shift degree: Please input the string to encode: Encoded text: IST BJTRV QCDHC QDI YFBAH ZKPG EWP ALOJ SZV!û
+Please input the shift degree: Please input the string to encode: Encoded text: JRU AKSSU RBEGD PEH ZECZI YLOH DXO BKPI TYW!ú
+Please input the shift degree: Please input the string to encode: Encoded text: KQV ZLRTT SAFFE OFG ADDYJ XMNI CYN CJQH UXX!ù
+Please input the shift degree: Please input the string to encode: Encoded text: LPW YMQUS TZGEF NGF BCEXK WNMJ BZM DIRG VWY!ø
+Please input the shift degree: Please input the string to encode: Encoded text: MOX XNPVR UYHDG MHE CBFWL VOLK AAL EHSF WVZ!÷
+Please input the shift degree: Please input the string to encode: Encoded text: NNY WOOWQ VXICH LID DAGVM UPKL ZBK FGTE XUA!ö
+Please input the shift degree: Please input the string to encode: Encoded text: OMZ VPNXP WWJBI KJC EZHUN TQJM YCJ GFUD YTB!õ
+Please input the shift degree: Please input the string to encode: Encoded text: PLA UQMYO XVKAJ JKB FYITO SRIN XDI HEVC ZSC!ô
+Please input the shift degree: Please input the string to encode: Encoded text: QKB TRLZN YULZK ILA GXJSP RSHO WEH IDWB ARD!ó
+Please input the shift degree: Please input the string to encode: Encoded text: RJC SSKAM ZTMYL HMZ HWKRQ QTGP VFG JCXA BQE!ò
+Please input the shift degree: Please input the string to encode: Encoded text: SID RTJBL ASNXM GNY IVLQR PUFQ UGF KBYZ CPF!ñ
+Please input the shift degree: Please input the string to encode: Encoded text: 
+
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text: 
+Please input the shift degree: Please input the string to encode: Encoded text:  
+Please input the shift degree: Please input the string to encode: Encoded text: !
+Please input the shift degree: Please input the string to encode: Encoded text: "
+Please input the shift degree: Please input the string to encode: Encoded text: #
+Please input the shift degree: Please input the string to encode: Encoded text: Message for you SIR.!
+
+Please input the shift degree: Please input the string to encode: Encoded text: Ndtrbff epq znv RJQ.!
+Please input the shift degree: Please input the string to encode: Encoded text: Ocuqceg dqp amw QKP.!
+Please input the shift degree: Please input the string to encode: Encoded text: Pbvpddh cro blx PLO.!
+Please input the shift degree: Please input the string to encode: Encoded text: Qawoeci bsn cky OMN.!
+Please input the shift degree: Please input the string to encode: Encoded text: Rzxnfbj atm djz NNM.!
+Please input the shift degree: Please input the string to encode: Encoded text: Syymgak zul eia MOL.!
+Please input the shift degree: Please input the string to encode: Encoded text: Txzlhzl yvk fhb LPK.!
+Please input the shift degree: Please input the string to encode: Encoded text: Uwakiym xwj ggc KQJ.!
+Please input the shift degree: Please input the string to encode: Encoded text: Vvbjjxn wxi hfd JRI.!
+Please input the shift degree: Please input the string to encode: Encoded text: Wucikwo vyh iee ISH.!
+Please input the shift degree: Please input the string to encode: Encoded text: Xtdhlvp uzg jdf HTG.!
+Please input the shift degree: Please input the string to encode: Encoded text: Ysegmuq taf kcg GUF.!
+Please input the shift degree: Please input the string to encode: Encoded text: Zrffntr sbe lbh FVE.!
+Please input the shift degree: Please input the string to encode: Encoded text: Aqgeoss rcd mai EWD.!
+Please input the shift degree: Please input the string to encode: Encoded text: Bphdprt qdc nzj DXC.!
+Please input the shift degree: Please input the string to encode: Encoded text: Coicqqu peb oyk CYB.!
+Please input the shift degree: Please input the string to encode: Encoded text: Dnjbrpv ofa pxl BZA.!
+Please input the shift degree: Please input the string to encode: Encoded text: Emkasow ngz qwm AAZ.!
+Please input the shift degree: Please input the string to encode: Encoded text: Fllztnx mhy rvn ZBY.!
+Please input the shift degree: Please input the string to encode: Encoded text: Gkmyumy lix suo YCX.!
+Please input the shift degree: Please input the string to encode: Encoded text: Hjnxvlz kjw ttp XDW.!
+Please input the shift degree: Please input the string to encode: Encoded text: Iiowwka jkv usq WEV.! 
+Please input the shift degree: Please input the string to encode: Encoded text: Jhpvxjb ilu vrr VFU.!!
+Please input the shift degree: Please input the string to encode: Encoded text: Kgquyic hmt wqs UGT.!"
+Please input the shift degree: Please input the string to encode: Encoded text: Lfrtzhd gns xpt THS.!#
