@@ -1,0 +1,5 @@
+-- Task 3.1 -- SELECT studentNumber, personFullNames(u), ageInYears(u), degreeCode FROM Undergraduate u WHERE isRegisteredFor(u, 'COS326');
+-- Task 3.2.1 -- SELECT hasValidCourseCodes('{"COS326", "COS301"}');
+-- Task 3.2.2 -- SELECT hasValidCourseCodes('{"COS326", "COS301", "COS321"}');
+-- Task 3.3.1 -- SELECT hasDuplicateCourseCodes('{"COS326", "COS301"}');
+-- Task 3.3.2 -- SELECT hasDuplicateCourseCodes('{"COS326", "COS301", "COS326"}');

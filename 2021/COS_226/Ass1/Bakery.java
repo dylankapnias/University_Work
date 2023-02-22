@@ -2,7 +2,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
-// Name: Dylan Kanpnias
+// Name: Dylan Kapnias
 // Student Number: u18108467
 
 public class Bakery implements Lock

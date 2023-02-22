@@ -1,0 +1,7 @@
+-- Task 3.1 -- SELECT studentKey, studentNumber, personFullNames(Student), ageInYears(Student) FROM Student;
+-- Task 3.2 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, u.courseRegistration FROM Undergraduate AS u JOIN Student AS s ON u.studentKey = s.studentKey;
+-- Task 3.3 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, p.category, personFullNames(p) FROM Postgraduate AS p JOIN Student AS s ON p.studentKey = s.studentKey;
+-- Task 3.4 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, u.courseRegistration FROM Undergraduate AS u JOIN Student AS s ON u.studentKey = s.studentKey WHERE s.yos = (SELECT DISTINCT noy FROM DegreeProgram JOIN Student ON s.degreeCode = DegreeProgram.degreeCode);
+-- Task 3.5 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, u.courseRegistration FROM Undergraduate AS u JOIN Student AS s ON u.studentKey = s.studentKey WHERE isRegisteredFor(u, 'COS326');
+-- Task 3.6 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, p.category, personFullNames(p) FROM Postgraduate AS p JOIN Student AS s ON p.studentKey = s.studentKey WHERE isFullTime(p);
+-- Task 3.7 -- SELECT s.studentKey, s.studentNumber, personFullNames(s), s.degreeCode, s.yos, p.category, personFullNames(p) FROM Postgraduate AS p JOIN Student AS s ON p.studentKey = s.studentKey WHERE isPartTime(p);

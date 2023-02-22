@@ -1,0 +1,34 @@
+make "AMOUNT 8
+
+clean
+penup
+home
+st
+make "radius 150
+make "srad 50
+make "deg 0
+make "inc (quotient 360 :AMOUNT)
+
+to create :times
+
+if (greaterp :times 0) [
+
+make "deg (sum :deg :inc)
+
+make "x (product :radius (sin :deg))
+make "y (product :radius (cos :deg))
+
+setxy :x :y
+
+pendown
+arc 360 :srad
+penup
+
+make "next (difference :times 1)
+create :next
+]
+
+end
+
+create :AMOUNT
+home
